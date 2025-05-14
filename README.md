@@ -33,10 +33,10 @@ Split: 70% training, 30% testing.
 Metrics: Accuracy, Precision, Recall, F1 Score, AUC-ROC.  
 
 **4. Results**  
-**Model**	                   <Accuracy>	<Precision>	<Recall>	<F1 Score>	<AUC-ROC>  
-**Logistic Regression:**	   96%	    0.71	    0.06	  0.12	    0.934  
-**Decision Tree:**	         95%	    0.33	    0.24	  0.28	    0.612  
-**Random Forest:**	         97%	    0.71	    0.19	  0.30	    0.898  
+**Model**	                   &nbsp;Accuracy	Precision	Recall	F1 Score	AUC-ROC  
+**Logistic Regression:**	   &nbsp;96%	    0.71	    0.06	  0.12	    0.934  
+**Decision Tree:**	         &nbsp;95%	    0.33	    0.24	  0.28	    0.612  
+**Random Forest:**	         &nbsp;97%	    0.71	    0.19	  0.30	    0.898  
   
 Key Observations:  
 Random Forest outperformed others with 97% accuracy and 0.898 AUC-ROC, indicating strong overall performance.  
